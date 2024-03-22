@@ -18,3 +18,7 @@ export class Oseba {
       console.log(`Pozdravljeni, moje ime je ${this.ime} ${this.priimek} in sem star ${this.starost} let.`);
    }
 }
+
+export async function delay(ms: number) {
+   return new Promise(resolve => setTimeout(resolve, ms) );
+}
