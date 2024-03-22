@@ -6,3 +6,5 @@ TODO:
 - async/await - delay funkcije, Promise
 - setTimeout
 - poskusi knjižnico axios (spletni klici)
+
+neki
