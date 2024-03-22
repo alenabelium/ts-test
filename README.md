@@ -7,3 +7,4 @@ TODO:
 - setTimeout
 - poskusi knjižnico axios (spletni klici)
 
+123
